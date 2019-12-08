@@ -1,0 +1,17 @@
+# idea
+.idea
+*.iml
+dependency-reduced-pom.xml
+# maven
+target/
+build/
+test/
+
+# logs
+logs/
+*.log
+
+# jrebel
+rebel.xml
+
+
